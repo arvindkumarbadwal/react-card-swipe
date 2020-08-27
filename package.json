@@ -1,0 +1,25 @@
+{
+    "name": "react-card-swipe",
+    "version": "0.1.0",
+    "description": "A React plugin for reading or capturing data from magnetic card readers.",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/arvindkumarbadwal/react-card-swipe.git"
+    },
+    "keywords": [
+        "react",
+        "card swipe",
+        "card reader",
+        "magentic reader",
+    ],
+    "author": "Arvindkumar Badwal <arvindkumar.b@hotmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/arvindkumarbadwal/react-card-swipe/issues"
+    },
+    "homepage": "https://github.com/arvindkumarbadwal/react-card-swipe"
+}
