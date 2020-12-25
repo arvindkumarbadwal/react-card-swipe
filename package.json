@@ -1,6 +1,6 @@
 {
     "name": "react-card-swipe",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A React plugin for reading or capturing data from magnetic card readers.",
     "main": "lib/index.js",
     "scripts": {
