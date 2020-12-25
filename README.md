@@ -2,7 +2,10 @@
 
 A React plugin for reading or capturing card data from magnetic swipe readers.
 
-Note: Requires a magnetic card reader to executed.
+#### Note: Requires a magnetic card reader to executed.
+
+![npm](https://img.shields.io/npm/v/react-card-swipe?style=for-the-badge)
+![npm](https://img.shields.io/npm/dt/react-card-swipe?style=for-the-badge)
 
 ## Installation
 
